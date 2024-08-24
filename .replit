@@ -1,0 +1,4 @@
+modules = ["go-1.21", "gcloud"]
+
+[nix]
+channel = "stable-24_05"
